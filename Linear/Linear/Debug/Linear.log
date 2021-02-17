@@ -1,0 +1,14 @@
+﻿  Linear.cpp
+C:\Users\Олег\source\Repos\Linear\Linear.h(62,13): warning C4099: Linear: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Олег\source\Repos\Linear\Linear.h(62): message : см. объявление "Linear"
+  main.cpp
+C:\Users\Олег\source\Repos\Linear\Parser.h(10,14): warning C4099: Linear: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Олег\source\Repos\Linear\Linear.h(62): message : см. объявление "Linear"
+  Parser.cpp
+C:\Users\Олег\source\Repos\Linear\Parser.h(10,14): warning C4099: Linear: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+C:\Users\Олег\source\Repos\Linear\Linear.h(62): message : см. объявление "Linear"
+  SeidelMethod.cpp
+C:\Users\Олег\source\Repos\Linear\Linear.h(62,13): warning C4099: Linear: имя типа, ранее отображенное с помощью "struct", теперь отображено с помощью "class"
+C:\Users\Олег\source\Repos\Linear\Linear.h(62): message : см. объявление "Linear"
+  Создание кода...
+  Linear.vcxproj -> C:\Users\Олег\source\Repos\Linear\Debug\Linear.exe
